@@ -1,0 +1,8 @@
+Software/X-Bus/OBJ/*
+Hardware/X-Bus/*
+!Hardware/X-Bus/X-Bus_V1.1.PcbDoc
+!Hardware/X-Bus/X-Bus_V1.0.pcbdoc
+!Hardware/X-Bus/X-Bus.PcbLib
+!Hardware/X-Bus/X-Bus.schdoc
+!Hardware/X-Bus/X-Bus.PrjPcb
+!Hardware/X-Bus/X-Bus.pdf
